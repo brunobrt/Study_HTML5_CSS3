@@ -1,0 +1,40 @@
+body {
+    background: rgb(40, 40, 41);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 50px;
+}
+
+h1 {
+    color: rgb(198, 208, 216);
+}
+
+h2 {
+    color: rgb(198, 208, 216);
+}
+
+p {
+    font-size: 18px;
+    color: rgb(198, 208, 216);
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.img_parceiros {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.img_contato {
+    width: 30px;
+}
